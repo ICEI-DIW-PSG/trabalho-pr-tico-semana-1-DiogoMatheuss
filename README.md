@@ -9,11 +9,11 @@ Matricula:903817
 
 ## Tela de inspeção com navegador
 
-<img src="nerwork.png">
+!~[Network](images/nerwork.png)
 
 ## Tela de projeto no Replit
 
-![Replit](Repl.png)
+![Replit](images/Repl.png)
 
 
 ## Orientações sobre Linguagem MarkDown

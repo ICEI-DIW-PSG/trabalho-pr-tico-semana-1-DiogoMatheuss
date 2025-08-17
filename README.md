@@ -9,7 +9,7 @@ Matricula:903817
 
 ## Tela de inspeção com navegador
 
-!~[Network](images/nerwork.png)
+![Network](images/nerwork.png)
 
 ## Tela de projeto no Replit
 

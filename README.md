@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:Diogo Matheus
+Matricula:903817
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img src="nerwork.png">
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Replit](Repl.png)
 
 
 ## Orientações sobre Linguagem MarkDown
@@ -23,3 +23,4 @@ Acesse e leia o [tutorial do GitHub com a sintaxe básica para escrita de texto 
 Veja aqui o exemplo de como colocar uma imagem nos locais acima. 
 
 ![Brasão PUC Minas](images/brasao_puc.png)
+
